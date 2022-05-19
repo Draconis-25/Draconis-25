@@ -10,8 +10,8 @@
   <img src = "https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white">
   <img src = "https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Draconis-25&theme=solarized-dark&hide_border=true&bg_color=00000000">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Draconis-25&layout=compact&theme=solarized-dark&hide_border=true&bg_color=00000000">
+  <img src = "https://github-readme-stats-draconis-25.vercel.app/api?username=Draconis-25&theme=solarized-dark&hide_border=true&bg_color=00000000">
+  <img src = "hhttps://github-readme-stats-draconis-25.vercel.app/api/top-langs/?username=Draconis-25&layout=compact&theme=solarized-dark&hide_border=true&bg_color=00000000">
   <br>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Draconis-25&theme=solarized-dark&hide_border=true&background=FFFFFF00">
 </p>
